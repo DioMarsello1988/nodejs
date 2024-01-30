@@ -1,14 +1,11 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID='de04add9-5c68-8bab-950c-08cd5320df18'
-VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/vless'
-TROJAN_WSPATH='/trojan'
-SS_WSPATH='/shadowsocks'
-NEZHA_SERVER="probe.nezha.org"
-NEZHA_PORT=5555
-NEZHA_KEY="p2RYaBPrCEiFro7W0Y"
+UUID='b1d207d5-cff5-4bed-afbd-f6d30befc856'
+VMESS_WSPATH='/nodejs1'
+VLESS_WSPATH='/nodejs'
+TROJAN_WSPATH='/nodejs0'
+SS_WSPATH='/nodejs2'
 
 # 安装系统依赖
 check_dependencies() {
